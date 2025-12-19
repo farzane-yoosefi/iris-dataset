@@ -1,4 +1,6 @@
 # iris-dataset
+>> These notes serve to demonstrate my machine learning knowledge to potential employers while also helping beginners learn complex concepts in simple terms.
+
 This repository help understanding the iris dataset
 ## datasets.load_iris()
 **iris** dataset is a type of simple and classic dataset used for learning machine learning and data analyses.
